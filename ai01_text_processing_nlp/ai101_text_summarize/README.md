@@ -1,5 +1,5 @@
 # Train-AI-DeepSeek
-### AI Text Processing & NLP
+### AI Text Processing & NLP - Text Summarize
 
 Step:
 1. Run ```pip install requests gradio```
