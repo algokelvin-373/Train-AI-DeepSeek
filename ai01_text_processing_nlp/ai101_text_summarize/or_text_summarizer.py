@@ -52,7 +52,7 @@ def summarize_text(text, api_key, model="deepseek/deepseek-r1:free", max_length=
         return None
 
 def main():
-    API_KEY = "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"
+    API_KEY = "<API_KEY>"
 
     # Example text
     sample_text = """
